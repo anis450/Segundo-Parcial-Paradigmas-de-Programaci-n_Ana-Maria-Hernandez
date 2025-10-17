@@ -52,7 +52,6 @@ $$ Precisión = \frac{\text{Puntos Correctos}}{\text{Total de Puntos}} \times 10
 ### Conclusión
 MESA permite representar de manera visual e interactiva el aprendizaje autónomo del perceptrón, demostrando la utilidad del paradigma de agentes en sistemas de inteligencia distribuida.
 
----
 
 ## 2. Calculadora Basada en el Paradigma de Agentes
 
@@ -91,7 +90,6 @@ calculadora_agentes/
 ### Conclusión
 La calculadora demuestra cómo el paradigma de agentes puede aplicarse en el procesamiento distribuido de operaciones, ilustrando cooperación, modularidad y escalabilidad en el diseño.
 
----
 
 ## 3. Calculadora Científica en Kotlin (Paradigma Orientado a Objetos)
 
@@ -133,7 +131,7 @@ calculadora_cientifica_kotlin/
 ### Conclusión
 El enfoque orientado a objetos permite construir software mantenible, modular y extensible. Kotlin facilita una sintaxis clara para expresar herencia y abstracción de manera natural.
 
----
+
 
 ## Conclusiones Generales
 Estos tres proyectos ilustran la aplicación de distintos paradigmas de programación:
