@@ -1,0 +1,1 @@
+# Segundo-Parcial-Paradigmas-de-Programaci-n_Ana-Maria-Hernandez
